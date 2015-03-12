@@ -1,0 +1,18 @@
+{
+  "name": "nodeschool",
+  "version": "1.0.0",
+  "description": "Node school starter for ten",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "nodeschool-1"
+  },
+  "author": "Nick Rogers",
+  "license": "ISC",
+  "dependencies": {
+    "once": "^1.3.0"
+  }
+}
